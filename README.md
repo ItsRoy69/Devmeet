@@ -1,5 +1,5 @@
 <p align="center">   
-   <img src="https://user-images.githubusercontent.com/78967360/161388846-cb73a1bd-4c7c-43fb-ab09-8a4395075434.png" width="100%">
+   <img src="https://user-images.githubusercontent.com/78967360/163656629-cf9a86e4-e6b0-40af-8506-1e3257b9b19c.png" width="100%">
 
    <h1 align="center">Devmeet</h1>
    <p align="center">Easily find people for your hackathons & projects!</p>
