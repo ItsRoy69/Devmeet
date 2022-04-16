@@ -22,7 +22,7 @@ A web application where we can search for developers looking to do hackathons or
 
  ## Checkout our app to learn more!
 
-Link: https://devvcon.netlify.app/
+Link: https://devmeet.netlify.app/
 
 ## Architecture of the web app
 <img src="https://user-images.githubusercontent.com/78967360/161389191-0f62dc09-016a-4dbe-86e1-3323290e809b.png" width="100%">
