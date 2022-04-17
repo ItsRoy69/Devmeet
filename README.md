@@ -12,6 +12,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Twilio](https://user-images.githubusercontent.com/63467479/162575535-8d6f3b37-1d46-4fbf-96b5-31a4ffd59a9b.png)
+
 
 </div>
 
@@ -25,7 +27,12 @@ A web application where we can search for developers looking to do hackathons or
 Link: https://devmeet.netlify.app/
 
 ## Architecture of the web app
-<img src="https://user-images.githubusercontent.com/78967360/163703478-1629f79a-b297-4c77-a7d6-6bd28ff7e5ad.jpeg" width="100%">
+
+<img src="https://user-images.githubusercontent.com/72182438/162618703-5a75696f-bf39-4eb3-bc73-c198bbe48732.svg" width="100%">
+
+## How you can find a teammate for a hackathon or project
+
+<img src="https://user-images.githubusercontent.com/72182438/162618669-2f6e256b-6923-4866-9b13-97c75e97719b.svg" width="100%">
 
 ## Some snapshots of our web app
 <img src="https://user-images.githubusercontent.com/78967360/163703449-ea5dd0da-2f17-49d2-9669-5e12adade947.png" width="100%">
