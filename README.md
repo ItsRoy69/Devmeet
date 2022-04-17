@@ -25,10 +25,10 @@ A web application where we can search for developers looking to do hackathons or
 Link: https://devmeet.netlify.app/
 
 ## Architecture of the web app
-<img src="https://user-images.githubusercontent.com/78967360/161389191-0f62dc09-016a-4dbe-86e1-3323290e809b.png" width="100%">
+<img src="https://user-images.githubusercontent.com/78967360/163703478-1629f79a-b297-4c77-a7d6-6bd28ff7e5ad.jpeg" width="100%">
 
 ## Some snapshots of our web app
-<img src="https://user-images.githubusercontent.com/78967360/163703199-19150b8e-2362-4859-9122-7f483771f141.png" width="100%">
+<img src="https://user-images.githubusercontent.com/78967360/163703449-ea5dd0da-2f17-49d2-9669-5e12adade947.png" width="100%">
 <img src="https://user-images.githubusercontent.com/78967360/163703244-27f54eeb-30df-4922-813c-60eedf07d278.png" width="100%">
 
 ## Getting started
